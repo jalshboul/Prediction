@@ -1,7 +1,7 @@
 # Prediction  
-Student Academic Performance Prediction  
+### Student Academic Performance Prediction  
 
-### Make Sure before you launch Shiny App that you have installed and loaded the following libraries:  
+### 1- Make Sure before you launch Shiny App that you have installed and loaded the following libraries:  
 library(shiny)  
 library(ggplot2)  
 library(dplyr)  
@@ -25,7 +25,7 @@ library(caTools)
 library(zoo) # Pre For party  
 library(party)   
 
-### Load shiny.RData file attached in this folder
+### 2- Load shiny.RData file attached in this folder
 
-### To launch Shiny App as an R script under RStudio Desktop Version:  
+### 3- To launch Shiny App as an R script under RStudio Desktop Version:  
 runGist("e5e99035eed1d36043aecf38f79a54f5")  
