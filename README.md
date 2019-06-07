@@ -1,5 +1,4 @@
 # Prediction  
-### Student Academic Performance Prediction  
 
 ### 1- Make Sure before you launch Shiny App that you have installed and loaded the following libraries:  
 library(shiny)  
